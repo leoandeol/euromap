@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+###############################################################
+
+# MacOS
+.DS_Store
+
+# Data
+data/
+
+# Don't include exports:
+exports/
